@@ -1,5 +1,6 @@
 # Pusarapu-Sowjanya
-Hi I'm SOWJANYA PUSARAPU 👋
+Hi 👋
+I'm SOWJANYA PUSARAPU 
 Currently I am Pursuing B.Tech Final year.An aspiring software developer passionate about learning and building cool projects. 💻
 
 🌱 Currently Learning: Learning Full Stack 
