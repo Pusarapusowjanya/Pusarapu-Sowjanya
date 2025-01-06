@@ -5,14 +5,14 @@ Currently I am Pursuing B.Tech Final year.An aspiring software developer passion
 🌱 Currently Learning: Learning Full Stack 
 
 🎯 Technical Skills:
-    Python
+    Python,
     Machine Learning
     
 👀 Soft Skills: 
-   Communication 
-   Team work
-   Leadership 
-   Presentation 
+   Communication, 
+   Team work,
+   Leadership, 
+   Presentation, 
    MS Office
    
 🚀 Projects: E-commerece website, Loan Eligibility Prediction  
